@@ -53,7 +53,7 @@ This is a repository for storing information about opportunities ever published 
 
 [imagiLabs](https://www.notion.so/imagiLabs-d733e7b24b66413db6f938d272c288e2)
 
-[Академия [mail.ru](http://mail.ru/)](https://www.notion.so/mail-ru-bbe88d59ff2540dfb98a16ec750520dc)
+[Академия mail.ru](https://data.mail.ru/pages/index/?next=/feed/%3F#auth)
 
 [Kaspi Lab](https://www.notion.so/Kaspi-Lab-d940a15673eb40beba750a90e0af0f43)
 
