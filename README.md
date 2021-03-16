@@ -1,7 +1,7 @@
 # IT community of SDU
 
 This is a repository for storing information about opportunities ever published and not published in It community of SDU Telegram channel.
-<p style="background-color:blue">research</p>
+<p style="color:blue">research</p>
 
 Name of the program | Type |
 --------------------|------|
