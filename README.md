@@ -4,7 +4,7 @@ This is a repository for storing information about opportunities ever published 
 
 Tags used:
 research - research internship
-:woman technologist:internship - typically SWE internship
+:woman_technologist:internship - typically SWE internship
 open-source int - internship with open-source project
 scholarship - scholarship or a grant given by organization
 funding - a grant or sponsorship for your project
