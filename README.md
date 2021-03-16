@@ -1,10 +1,11 @@
 # IT community of SDU
 
 This is a repository for storing information about opportunities ever published and not published in It community of SDU Telegram channel.
+<span style="background-color:blue">research</span>
 
 Name of the program | Type |
 --------------------|------|
-[Summer EFPL](https://summer.epfl.ch/) |<span style="background-color:blue">research</span>|
+[Summer EFPL](https://summer.epfl.ch/) | research |
 [Google scholarship for girls](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea/) | scholarship |
 [NIG Summer Internship](https://www.nig.ac.jp/jimu/soken/intern/2021/index.html) | research |
 [Summer Fellowship Indiana University](https://luddy.indiana.edu/research/student-research/fellowship.html) | research |
