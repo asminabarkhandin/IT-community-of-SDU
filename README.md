@@ -4,7 +4,7 @@ This is a repository for storing information about opportunities ever published 
 
 Name of the program | Type |
 --------------------|------|
-[Summer EFPL](https://summer.epfl.ch/) | research |
+[Summer EFPL](https://summer.epfl.ch/) |<span style="background-color:blue">research</span>|
 [Google scholarship for girls](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea/) | scholarship |
 [NIG Summer Internship](https://www.nig.ac.jp/jimu/soken/intern/2021/index.html) | research |
 [Summer Fellowship Indiana University](https://luddy.indiana.edu/research/student-research/fellowship.html) | research |
