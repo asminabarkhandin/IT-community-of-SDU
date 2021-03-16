@@ -2,14 +2,14 @@
 
 This is a repository for storing information about opportunities ever published and not published in [IT community of SDU](https://t.me/sdu_it_community) Telegram channel.
 
-Tags used:
-research - research internship
-:woman_technologist:internship - typically SWE internship
-open-source int - internship with open-source project
-scholarship - scholarship or a grant given by organization
-funding - a grant or sponsorship for your project
-courses - bootcamps typically organized by IT companies
-exchange - study-abroad opprotunity
+*Tags used:
+*research - research internship
+*:woman_technologist:internship - typically SWE internship
+*open-source int - internship with open-source project
+*scholarship - scholarship or a grant given by organization
+*funding - a grant or sponsorship for your project
+*courses - bootcamps typically organized by IT companies
+*exchange - study-abroad opprotunity
 
 Name of the program | Type |
 --------------------|------|
