@@ -68,5 +68,5 @@ Name of the program | Type | Where | When |
 🇰🇿[Kazakhstan IT Internships](https://github.com/danabeknar/kazakhstan-it-internships) by @danabeknar  
 
 ## Do you want to contribute?
-
+You can send your info to [Telegram bot](https://t.me/shareyourlinks_bot), or contribute to this repo by making your ```fork``` and sending ```merge request```.
 
