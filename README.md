@@ -59,7 +59,7 @@ Name of the program | Type | Where | When |
 [CERN Summer Programs](https://careers.cern/summer) | research | Switzerland | Summer |
 [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | research | Switzerland | Summer |
 [SnapResearch](https://snap.submittable.com/submit) | research | USA | Summer |
-
+[JetBrains Internships](https://internship.jetbrains.com/) | internship | remote | Summer |
 
 ## Other repositories with internships  
 ☀️[Summer 2021 Internships](https://github.com/pittcsc/Summer2021-Internships) by @pittcsc  
