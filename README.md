@@ -18,7 +18,7 @@ Name of the program | Type | Where | When |
 [NIG Summer Internship](https://www.nig.ac.jp/jimu/soken/intern/2021/index.html) | research | Japan | Summer |
 [Summer Fellowship Indiana University](https://luddy.indiana.edu/research/student-research/fellowship.html) | research | USA | Summer |
 [U of Tokyo Summer Internship](https://www.ilo.k.u-tokyo.ac.jp/summer_en/program) | research | Japan | Summer |
-[Kolesa Upgrade School](https://upgrade.kolesa.group/) | courses | Kazakhstan | whole year |
+[Kolesa Upgrade School](https://upgrade.kolesa.group/) | courses | Kazakhstan | Whole year |
 [RIPS-LA](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2021/?tab=apply) | research | USA | Summer |
 [Outreachy Internship](https://www.outreachy.org/) | open-source int | remote | Winter and Summer |
 [Yessenov Scholarship](https://yessenovfoundation.org/o-fonde/programmyi/nauka/stipendiya-im-akademika-sh-esenova/) | scholarship | Kazakhstan | Winter |
