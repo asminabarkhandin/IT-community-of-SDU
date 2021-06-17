@@ -51,6 +51,9 @@ Name of the program | Type | Where | When |
 [ISSAI](https://issai.nu.edu.kz/home/) | research | Kazakhstan | Summer |
 [KAUST Internship](https://vsrp.kaust.edu.sa/internship/introduction) | research | Saudi Arabia | different |
 [DAR Lab](https://dar.io/ru/internships) | internship | Kazakhstan | Winter and Summer |
+[JetBrains Internships](https://internship.jetbrains.com/) | internship | remote | Summer |
+[Chocodev Internship](https://chocofamily.kz/ourinternship) | internship | 1 month remote and 2 months in Almaty | Winter and Summer |
+
 [LPI Internship](https://www.lpi.usra.edu/lpiintern/) | research | USA | Summer |
 [Open Source University](https://github.com/ossu/computer-science) | courses | | |
 [Alfa Big Data Lab](https://alfalab.kz/?utm_source=instagram&utm_medium=cpc&utm_campaign=ads&fbclid=PAAaY9N16JLnUc5Eo6TSY7S_f6JsnAHuZcjysow3sHfOP5ydDcbQRL3E-Bf8o) | courses | Kazakhstan | different |
