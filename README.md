@@ -64,6 +64,7 @@ Name of the program | Type | Where | When |
 [JetBrains Internships](https://internship.jetbrains.com/) | internship | remote | Summer |
 
 ## Other repositories with internships  
+☀️[Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships) by @pittcsc
 ☀️[Summer 2021 Internships](https://github.com/pittcsc/Summer2021-Internships) by @pittcsc  
 ☀️[Summer 2020 Internships](https://github.com/elaine-zheng/summer2020internships) by @elaine-zheng  
 🇷🇺[Russian Internships](https://github.com/MrHakimov/russian-internships) by @MrHakimov  
